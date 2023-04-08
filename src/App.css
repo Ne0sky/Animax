@@ -1,0 +1,7 @@
+body{
+    overflow-x: hidden;
+    background-color: rgb(13, 13, 14);
+    font-family: 'Montserrat', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
