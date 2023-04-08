@@ -9,4 +9,5 @@ to keep track of the animes that you are watching.
 - [x] React Router Dom
 - [x] Local Storage
 <br>
+
 ![alt text](https://raw.githubusercontent.com/Ne0sky/Animax/main/images/Capture.JPG)
